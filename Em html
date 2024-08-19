@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site responsivo</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+
+        <div class="interface"> 
+            <section class="logo">
+
+                
+            </section>
+
+            <section class="menu-desktop">
+                <nav>
+                    <ul>
+                     <li> <a href="https://youtu.be/a8aNoKmJ8eI">inicio</a></li>   
+                     <li> <a href="#">destino</a></li>  
+                     <li> <a href="#">hoteis</a></li>  
+                     <li> <a href="#">passagens</a></li>  
+                    </ul>
+                </nav>
+            </section>
+            <section class="btn-contato">
+                <a href="#">
+                    <button>voltar</button>
+
+                </a>
+            </section>
+
+        </div>
+
+    </header>
+</body>
+</html>
