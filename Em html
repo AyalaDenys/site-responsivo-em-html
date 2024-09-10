@@ -5,29 +5,42 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Site responsivo</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+  
+
 </head>
+
+
 <body>
     <header>
 
         <div class="interface"> 
             <section class="logo">
-
+                <img src="imagens/gato.jpeg" alt="error">
                 
             </section>
 
             <section class="menu-desktop">
                 <nav>
                     <ul>
-                     <li> <a href="https://youtu.be/a8aNoKmJ8eI">inicio</a></li>   
-                     <li> <a href="#">destino</a></li>  
-                     <li> <a href="#">hoteis</a></li>  
-                     <li> <a href="#">passagens</a></li>  
+                     <li> <a href="https://youtu.be/a8aNoKmJ8eI">Orienta</a></li>   
+                     <li> <a href="">Adote</a></li>  
+                     <li> <a href="file:///C:/Users/Aluno/OneDrive/%C3%81rea%20de%20Trabalho/web%20site%20responsivo/abandono.html">Abandono</a></li>  
+                     <li> <a href="#">Sobre</a></li>
+                     <li><a href="#">Jogo</a></li> 
+                     <li><a href="file:///C:/Users/Aluno/OneDrive/%C3%81rea%20de%20Trabalho/web%20site%20responsivo/parceiros.html">Parceiros</a></li>
+                     <li><a href="#">Ajuda</a></li>
+                     <li><a href="file:///C:/Users/Aluno/OneDrive/%C3%81rea%20de%20Trabalho/web%20site%20responsivo/parceiros.html">Créditos</a></li>
+                     
+                      
                     </ul>
                 </nav>
             </section>
             <section class="btn-contato">
                 <a href="#">
-                    <button>voltar</button>
+                    <button>Voltar</button>
 
                 </a>
             </section>
@@ -35,5 +48,48 @@
         </div>
 
     </header>
+    <section class="hero-site">
+        <div class="interface">
+            <div class="txt-hero">
+                <h1>
+                    NOVIDADE <span>BOMBÁSTICA!</span> </h1>
+                    <p>Encontre novos pets para sua casa <span>Certamente farão grandes coisas juntos</span></p>
+
+                    <a href="https://www.myinstants.com/en/search/?name=engra%C3%A7ado!">
+                        <button>Confira</button>
+                    </a>
+            </div>
+
+        </div>
+
+    </section>
+    <section class="vantagens">        
+        <div class="interface">
+            <article class="itens-container">
+                <div class="txt-itens">
+                    <h3> <span>ENCONTRE</span> SEU PET</h3>
+                    <p>Uma empresa confiável, fiel e multinacional, se destacando em várias áreas, no tocante ao nível de resultados obtidos de ano em ano.</p>
+                </div>
+                <div class="img-itens">
+
+                   
+                </div>
+            </article>
+
+        </div>
+    </section>
+
+    <section class="hero-site">
+
+        <div class="interface">
+            <div class="txt-hero">
+                <h1>
+                    CONHEÇA <span>NOSSA EMPRESA</span>
+                </h1>
+            </div>
+        </div>
+
+    </section>
+   
 </body>
 </html>
